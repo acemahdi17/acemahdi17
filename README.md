@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning ...Advanced Diploma in Computer Engineering and Technology @Seneca Polytechnic
 - 💞️ I’m looking to collaborate on ...anything interesting and helping one another improve in different aspects.
 - 📫 How to reach me ...Email-mahdish23g@gmail.com
-- 😄 Pronouns: ...He/Him
-- ⚡ Fun fact: ...Just a normal Human being existing on Earth.
+
 
 <!---
 acemahdi17/acemahdi17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
